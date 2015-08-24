@@ -1,0 +1,33 @@
+[submodule "Season"]
+	path = Season
+	url = https://github.com/Enseed/Season.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/miloyip/rapidjson.git
+[submodule "googletest"]
+	path = googletest
+	url = https://chromium.googlesource.com/external/googletest.git
+[submodule "cpp-netlib/uri"]
+	path = cpp-netlib/uri
+url=https://github.com/Enseed/uri.git
+[submodule "Reflect"]
+	path = Reflect
+	url = https://github.com/Enseed/Reflect_bin.git
+[submodule "boost"]
+	path = boost
+	url = http://petit@stash.dsotm.dyndns.org/scm/tp/boost_include.git
+[submodule "Generic/AutoPtr"]
+	path = Generic/AutoPtr
+	url = https://github.com/Enseed/GenericAutoPtr.git
+[submodule "Generic/Devel"]
+	path = Generic/Devel
+	url = https://github.com/Enseed/GenericDevel.git
+[submodule "Generic/Base"]
+	path = Generic/Base
+	url = https://github.com/Enseed/GenericBase.git
+[submodule "Generic/CountPtr"]
+	path = Generic/CountPtr
+	url = https://github.com/Enseed/GenericCountPtr.git
+[submodule "Generic/Atomic"]
+	path = Generic/Atomic
+	url = https://github.com/Enseed/GenericAtomic.git
